@@ -1,6 +1,6 @@
 var x = document.getElementById('abt');
 
-var s=['Software Engineer','FullStack Developer','Coder','Student'];
+var s=['FullStack Developer','Coder','Student'];
 
 var i = 0;
 
